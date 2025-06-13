@@ -1,4 +1,7 @@
 # obstacle-avoiding-car-arduino
+![Obstacle-Avoiding Car](./car.jpg)
+![Obstacle-Avoiding Car](./car1.jpg)
+![Obstacle-Avoiding Car](./car2.jpg)
 Arduino-powered robot car that uses an ultrasonic sensor to detect and avoid obstacles.
 ## Features
 - **Ultrasonic sensor** to detect obstacles ahead.
